@@ -1,0 +1,1 @@
+Render zipped .psd files into .png
